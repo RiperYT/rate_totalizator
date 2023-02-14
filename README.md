@@ -1,3 +1,3 @@
 # Currency Rate Battle
 
-Group 4
+Projects on C#/.Net to show skills
