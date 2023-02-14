@@ -1,2 +1,3 @@
-# rate_totalizator
-Client-server project for exchange rate totalizer
+# Currency Rate Battle
+
+Group 4
